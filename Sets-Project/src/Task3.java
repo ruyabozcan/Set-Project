@@ -1,3 +1,7 @@
+// RÜYA BOZCAN
+// COMPUTER ENGINEERING 
+// ABU
+
 package com.company;
 
 import java.util.*;
@@ -47,6 +51,10 @@ public class Task3 {
     public static boolean compare2sets(HashSet h, HashSet h2){
         return h.equals(h2);
     }
+
+// RÜYA BOZCAN
+// COMPUTER ENGINEERING 
+// ABU
 
     public static void setsIntersection(HashSet h, HashSet h2){
         h.retainAll(h2);
