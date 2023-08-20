@@ -52,11 +52,11 @@ public class Task3 {
         return h.equals(h2);
     }
 
-// RÜYA BOZCAN
-// COMPUTER ENGINEERING 
-// ABU
-
     public static void setsIntersection(HashSet h, HashSet h2){
         h.retainAll(h2);
     }
 }
+
+// RÜYA BOZCAN
+// COMPUTER ENGINEERING 
+// ABU
